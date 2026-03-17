@@ -111,8 +111,8 @@ Automated ETL pipeline processing 10GB+ datasets daily on AWS. Improved data ava
 
 ## 📊 GitHub Stats
 
-![Darpan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpanaryal&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpanaryal&layout=compact&theme=default&hide_border=true)
+![Darpan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=darpan-aryal&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=darpan-aryal&layout=compact&theme=default&hide_border=true)
 
 ---
 
